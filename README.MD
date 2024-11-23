@@ -16,6 +16,13 @@ A energia renovável, especialmente a solar, requer monitoramento ambiental prec
 
 Integrando o ESP32 com um sensor de temperatura/umidade (DHT22) e um resistor dependente de luz (LDR), o sistema coleta, processa e carrega dados ambientais em uma plataforma em nuvem. Esta solução foi projetada para ser fácil de usar e escalável, permitindo o acesso aos dados de qualquer lugar com conexão à internet.
 
+## **Este Projeto foi projetado, documentado e implementado por**
+### **Henrique Baptista**
+- **LinkedIn** : [Henrique Baptista](https://www.linkedin.com/in/henrique-baptista777/)
+- **GitHub** : [henriquebap](https://github.com/henriquebap)
+- **Email** : [henriquebaptista2003@gmail.com](mailto:henriquebaptista2003@gmail.com)
+## Integrantes do Grupo da Entrega (Global Solution 4 - Final)
+
 ---
 
 ## **Tecnologias e Bibliotecas**
@@ -40,7 +47,7 @@ Integrando o ESP32 com um sensor de temperatura/umidade (DHT22) e um resistor de
 
 ### **Software**
 
-1. **Arduino IDE** :
+1. **Wokwi IDE** :
 
 - Utilizado para programar o ESP32.
 
@@ -180,9 +187,17 @@ Integrando o ESP32 com um sensor de temperatura/umidade (DHT22) e um resistor de
 
 ## **Exemplos Visuais**
 
+### **Device Status**
+
+![Device Status](https://github.com/henriquebap/ESP32-HTTP-GS4/blob/main/imgs/Device.jpg)
+
 ### **Diagrama de Circuito**
 
+![Diagrama de Circuito](https://github.com/henriquebap/ESP32-HTTP-GS4/blob/main/imgs/Simulation.jpg)
+
 ### **Bucket de Dados no Thinger.io**
+
+![Buckets De Dados](https://github.com/henriquebap/ESP32-HTTP-GS4/blob/main/imgs/Data%20Buckets.jpg)
 
 ---
 
@@ -198,3 +213,5 @@ Integrando o ESP32 com um sensor de temperatura/umidade (DHT22) e um resistor de
 ## **Conclusão**
 
 Este projeto exemplifica como o IoT pode contribuir para a adoção de energia renovável e monitoramento ambiental. Aproveitando as capacidades do ESP32 e a robusta plataforma Thinger.io, ele oferece uma solução escalável e econômica para insights energéticos em tempo real.
+
+
