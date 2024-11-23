@@ -22,7 +22,12 @@ Integrando o ESP32 com um sensor de temperatura/umidade (DHT22) e um resistor de
 - **LinkedIn** : [Henrique Baptista](https://www.linkedin.com/in/henrique-baptista777/)
 - **GitHub** : [henriquebap](https://github.com/henriquebap)
 - **Email** : [henriquebaptista2003@gmail.com](mailto:henriquebaptista2003@gmail.com)
+
 ## Integrantes do Grupo da Entrega (Global Solution 4 - Final)
+- Henrique Baptista (**RM 97796**)
+- Gabriel Caverzan (**RM 551322**)
+- Leonardo Valencio Dourado (**RM 551582**)
+- Matheus de Castro Telles Rodrigues (**RM 98413**)
 
 ---
 
@@ -199,6 +204,11 @@ Integrando o ESP32 com um sensor de temperatura/umidade (DHT22) e um resistor de
 ### **Bucket de Dados no Thinger.io**
 
 ![Buckets De Dados](https://github.com/henriquebap/ESP32-HTTP-GS4/blob/main/imgs/Data%20Buckets.jpg)
+
+### **DashBoards**
+
+![DashBoards](https://github.com/henriquebap/ESP32-HTTP-GS4/blob/main/imgs/DashBoards.jpg)
+
 
 ---
 
