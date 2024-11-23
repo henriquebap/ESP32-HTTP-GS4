@@ -172,7 +172,7 @@ Integrando o ESP32 com um sensor de temperatura/umidade (DHT22) e um resistor de
 
 1. **Dependências** :
 
-- Instale as seguintes bibliotecas via Arduino IDE:
+- Instale as seguintes bibliotecas via Wokwi IDE:
   - **`DHT Sensor Library`**
   - **`ArduinoJson`**
   - **`WiFi`**
