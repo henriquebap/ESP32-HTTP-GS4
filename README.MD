@@ -16,8 +16,9 @@ A energia renovável, especialmente a solar, requer monitoramento ambiental prec
 
 Integrando o ESP32 com um sensor de temperatura/umidade (DHT22) e um resistor dependente de luz (LDR), o sistema coleta, processa e carrega dados ambientais em uma plataforma em nuvem. Esta solução foi projetada para ser fácil de usar e escalável, permitindo o acesso aos dados de qualquer lugar com conexão à internet.
 
-## **Este Projeto foi projetado, documentado e implementado por**
-### **Henrique Baptista**
+## **Este Projeto foi projetado, documentado e implementado por Henrique Baptista**
+
+### **Contato**
 - **LinkedIn** : [Henrique Baptista](https://www.linkedin.com/in/henrique-baptista777/)
 - **GitHub** : [henriquebap](https://github.com/henriquebap)
 - **Email** : [henriquebaptista2003@gmail.com](mailto:henriquebaptista2003@gmail.com)
